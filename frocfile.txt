@@ -1,0 +1,1 @@
+worker: python mexc_bot.py
